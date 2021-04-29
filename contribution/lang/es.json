@@ -811,51 +811,51 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]",
+ 	 	 	 	"trans": "Adquiere 3 Fragmentos de Llave de cada mazmorra de ${segmentDisplayName},\r\n                estos se usan para crear la llave a la siguiente zona.\r\n                To craft the key, go to terminal in [HUB]",
  	 	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]"
  	 	 	}
  	 	},
  	 	"random": {
  	 	 	"clearChallengeDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "dungeon warrior",
+ 	 	 	 	 	"trans": "guerrero de mazmorra",
  	 	 	 	 	"eng": "dungeon warrior"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeonCoOp": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "dungeon friends",
+ 	 	 	 	 	"trans": "amigos de mazmorra",
  	 	 	 	 	"eng": "dungeon friends"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "dungeon crawler",
+ 	 	 	 	 	"trans": "explorador de mazmorra",
  	 	 	 	 	"eng": "dungeon crawler"
  	 	 	 	}
  	 	 	},
  	 	 	"dealDamage": {
- 	 	 	 	"trans": "Deal Damage",
+ 	 	 	 	"trans": "Realiza Daño",
  	 	 	 	"eng": "Deal Damage"
  	 	 	},
  	 	 	"exp": {
- 	 	 	 	"trans": "Gain exp",
+ 	 	 	 	"trans": "Gana exp",
  	 	 	 	"eng": "Gain exp"
  	 	 	},
  	 	 	"joinDungeon": {
- 	 	 	 	"trans": "Join Dungeon",
+ 	 	 	 	"trans": "Unete a la mazmorra",
  	 	 	 	"eng": "Join Dungeon"
  	 	 	},
  	 	 	"killEnemy": {
- 	 	 	 	"trans": "Kill enemy",
+ 	 	 	 	"trans": "Elimina a un enemigo",
  	 	 	 	"eng": "Kill enemy"
  	 	 	},
  	 	 	"getMoney": {
- 	 	 	 	"trans": "Acquire Bitcoin",
+ 	 	 	 	"trans": "Adquiere Bitcoin",
  	 	 	 	"eng": "Acquire Bitcoin"
  	 	 	},
  	 	 	"print": {
- 	 	 	 	"trans": "Molecular Printing",
+ 	 	 	 	"trans": "Impresión Moleular",
  	 	 	 	"eng": "Molecular Printing"
  	 	 	}
  	 	}
@@ -873,11 +873,11 @@
  	 	 	 	"eng": "Click to receive reward"
  	 	 	},
  	 	 	"inProgress": {
- 	 	 	 	"trans": "Request in progress...",
+ 	 	 	 	"trans": "Petición en progreso...",
  	 	 	 	"eng": "Request in progress..."
  	 	 	},
  	 	 	"watchAdRefresh": {
- 	 	 	 	"trans": "Watch an AD to refresh quest",
+ 	 	 	 	"trans": "Mirá un auncio para actualizar la misión",
  	 	 	 	"eng": "Watch an AD to refresh quest"
  	 	 	}
  	 	},
@@ -887,7 +887,7 @@
  	 	 	 	"eng": "Interactable"
  	 	 	},
  	 	 	"travel": {
- 	 	 	 	"trans": "Travel",
+ 	 	 	 	"trans": "Viaja",
  	 	 	 	"eng": "Travel"
  	 	 	}
  	 	},
@@ -897,19 +897,19 @@
  	 	 	 	"eng": "Alias"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "title",
+ 	 	 	 	"trans": "titulo",
  	 	 	 	"eng": "title"
  	 	 	},
  	 	 	"gearScore": {
- 	 	 	 	"trans": "Gear Score",
+ 	 	 	 	"trans": "Nivel de equipo",
  	 	 	 	"eng": "Gear Score"
  	 	 	},
  	 	 	"location": {
- 	 	 	 	"trans": "location",
+ 	 	 	 	"trans": "ubicación",
  	 	 	 	"eng": "location"
  	 	 	},
  	 	 	"onlineStatus": {
- 	 	 	 	"trans": "system link",
+ 	 	 	 	"trans": "conexión de sistema",
  	 	 	 	"eng": "system link"
  	 	 	},
  	 	 	"streetCred": {
@@ -917,11 +917,11 @@
  	 	 	 	"eng": "Street Cred"
  	 	 	},
  	 	 	"status": {
- 	 	 	 	"trans": "Status",
+ 	 	 	 	"trans": "Estado",
  	 	 	 	"eng": "Status"
  	 	 	},
  	 	 	"numOfMember": {
- 	 	 	 	"trans": "Number of members",
+ 	 	 	 	"trans": "Número de miembros",
  	 	 	 	"eng": "Number of members"
  	 	 	},
  	 	 	"gangAction": {
@@ -930,25 +930,25 @@
  	 	 	 	 	"eng": "Gang Actions"
  	 	 	 	},
  	 	 	 	"kick": {
- 	 	 	 	 	"trans": "Kick",
+ 	 	 	 	 	"trans": "Expulsar",
  	 	 	 	 	"eng": "Kick"
  	 	 	 	},
  	 	 	 	"transferLeadership": {
- 	 	 	 	 	"trans": "Transfer Leadership",
+ 	 	 	 	 	"trans": "Transferir Liderato",
  	 	 	 	 	"eng": "Transfer Leadership"
  	 	 	 	}
  	 	 	},
  	 	 	"playerActions": {
  	 	 	 	"label": {
- 	 	 	 	 	"trans": "Player Actions",
+ 	 	 	 	 	"trans": "Acciones de Jugador",
  	 	 	 	 	"eng": "Player Actions"
  	 	 	 	},
  	 	 	 	"sendPrivateMsg": {
- 	 	 	 	 	"trans": "Send private message",
+ 	 	 	 	 	"trans": "Enviar mensaje privado",
  	 	 	 	 	"eng": "Send private message"
  	 	 	 	},
  	 	 	 	"sendGift": {
- 	 	 	 	 	"trans": "Send Gift",
+ 	 	 	 	 	"trans": "Enviar Regalo",
  	 	 	 	 	"eng": "Send Gift"
  	 	 	 	},
  	 	 	 	"inviteToGang": {
@@ -956,11 +956,11 @@
  	 	 	 	 	"eng": "Invite to Gang"
  	 	 	 	},
  	 	 	 	"addToFriend": {
- 	 	 	 	 	"trans": "add to Friend List",
+ 	 	 	 	 	"trans": "añadir a Lista de Amigos",
  	 	 	 	 	"eng": "add to Friend List"
  	 	 	 	},
  	 	 	 	"removeFromFriend": {
- 	 	 	 	 	"trans": "Remove from Friend List",
+ 	 	 	 	 	"trans": "Eliminar de Lista de Amigos",
  	 	 	 	 	"eng": "Remove from Friend List"
  	 	 	 	},
  	 	 	 	"giveStreetCred": {
@@ -982,7 +982,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"nextSlotSize"
  	 	 	 	],
- 	 	 	 	"trans": "Increase slot to ${nextSlotSize}",
+ 	 	 	 	"trans": "Aumentar espacio a ${nextSlotSize}",
  	 	 	 	"eng": "Increase slot to ${nextSlotSize}"
  	 	 	}
  	 	},
@@ -1006,11 +1006,11 @@
  	 	},
  	 	"profile": {
  	 	 	"profile": {
- 	 	 	 	"trans": "Profile",
+ 	 	 	 	"trans": "Perfil",
  	 	 	 	"eng": "Profile"
  	 	 	},
  	 	 	"update": {
- 	 	 	 	"trans": "Updates",
+ 	 	 	 	"trans": "Actualizaciones",
  	 	 	 	"eng": "Updates"
  	 	 	},
  	 	 	"tutorial": {
@@ -1018,7 +1018,7 @@
  	 	 	 	"eng": "tutorial"
  	 	 	},
  	 	 	"credits": {
- 	 	 	 	"trans": "credits",
+ 	 	 	 	"trans": "creditos",
  	 	 	 	"eng": "credits"
  	 	 	}
  	 	},
@@ -1030,27 +1030,27 @@
  	 	},
  	 	"setting": {
  	 	 	"language": {
- 	 	 	 	"trans": "Language",
+ 	 	 	 	"trans": "Lenguaje",
  	 	 	 	"eng": "Language"
  	 	 	},
  	 	 	"langWarning": {
- 	 	 	 	"trans": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page",
+ 	 	 	 	"trans": "Este paquete de lenguaje es de código abierto, el texto puede no estar traducido completamente y puede contener errores. sientete libre de editar y contribuir desde nuestra página de Github",
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"playBackgroundMusic": {
- 	 	 	 	"trans": "Mute background music",
+ 	 	 	 	"trans": "Silenciar música de fondo",
  	 	 	 	"eng": "Mute background music"
  	 	 	},
  	 	 	"restartRequired": {
- 	 	 	 	"trans": "App will self restart after save",
+ 	 	 	 	"trans": "La aplicación se reiniciará después de guardar",
  	 	 	 	"eng": "App will self restart after save"
  	 	 	},
  	 	 	"save": {
- 	 	 	 	"trans": "save",
+ 	 	 	 	"trans": "guardar",
  	 	 	 	"eng": "save"
  	 	 	},
  	 	 	"langGithub": {
- 	 	 	 	"trans": "Help with translating the game",
+ 	 	 	 	"trans": "Ayuda traduciendo el juego",
  	 	 	 	"eng": "Help with translating the game"
  	 	 	}
  	 	}
@@ -1061,7 +1061,7 @@
  	 	 	"eng": "missing"
  	 	},
  	 	"name": {
- 	 	 	"trans": "Name",
+ 	 	 	"trans": "Nombre",
  	 	 	"eng": "Name"
  	 	},
  	 	"tag": {
@@ -1069,7 +1069,7 @@
  	 	 	"eng": "Tag"
  	 	},
  	 	"donate": {
- 	 	 	"trans": "Donate",
+ 	 	 	"trans": "Donar",
  	 	 	"eng": "Donate"
  	 	},
  	 	"noSecretKey": {
@@ -1080,37 +1080,37 @@
  	"statsType": {
  	 	"health": {
  	 	 	"name": {
- 	 	 	 	"trans": "Health",
+ 	 	 	 	"trans": "Salud",
  	 	 	 	"eng": "Health"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increases maximum health",
+ 	 	 	 	"trans": "Incrementa la salud máxima",
  	 	 	 	"eng": "Increases maximum health"
  	 	 	}
  	 	},
  	 	"armor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Armor",
+ 	 	 	 	"trans": "Armadura",
  	 	 	 	"eng": "Armor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Decrease damage taken from enemy",
+ 	 	 	 	"trans": "Reduce el daño recibido del enemigo",
  	 	 	 	"eng": "Decrease damage taken from enemy"
  	 	 	}
  	 	},
  	 	"healthRegen": {
  	 	 	"name": {
- 	 	 	 	"trans": "Health regen",
+ 	 	 	 	"trans": "Regeneración de salud",
  	 	 	 	"eng": "Health regen"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Amount of health regenerated after end of combat",
+ 	 	 	 	"trans": "Cantidad de salud regenerada después de terminar una batalla",
  	 	 	 	"eng": "Amount of health regenerated after end of combat"
  	 	 	}
  	 	},
  	 	"damage": {
  	 	 	"name": {
- 	 	 	 	"trans": "Damage",
+ 	 	 	 	"trans": "Daño",
  	 	 	 	"eng": "Damage"
  	 	 	},
  	 	 	"description": {
@@ -1120,17 +1120,17 @@
  	 	},
  	 	"critChance": {
  	 	 	"name": {
- 	 	 	 	"trans": "Crit chance",
+ 	 	 	 	"trans": "Probabilidad de crítico",
  	 	 	 	"eng": "Crit chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Chance of you executing a critical attack",
+ 	 	 	 	"trans": "Probabilidad de ejecutar un golpe crítico",
  	 	 	 	"eng": "Chance of you executing a critical attack"
  	 	 	}
  	 	},
  	 	"critDamage": {
  	 	 	"name": {
- 	 	 	 	"trans": "Crit damage",
+ 	 	 	 	"trans": "Daño crítico",
  	 	 	 	"eng": "Crit damage"
  	 	 	},
  	 	 	"description": {
@@ -1190,81 +1190,81 @@
  	 	},
  	 	"damageMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Damage multiplier",
+ 	 	 	 	"trans": "Multiplicador de daño",
  	 	 	 	"eng": "Damage multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increases damage by percentage",
+ 	 	 	 	"trans": "Incrementa el daño por porcentaje",
  	 	 	 	"eng": "Increases damage by percentage"
  	 	 	}
  	 	},
  	 	"defenceMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Defence multiplier",
+ 	 	 	 	"trans": "Multiplicador de defensa",
  	 	 	 	"eng": "Defence multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Decreases damage received by percentage",
+ 	 	 	 	"trans": "Reduce el daño recibido por porcentaje",
  	 	 	 	"eng": "Decreases damage received by percentage"
  	 	 	}
  	 	},
  	 	"stunEvade": {
  	 	 	"name": {
- 	 	 	 	"trans": "Stun evade",
+ 	 	 	 	"trans": "Evasión de aturdimiento",
  	 	 	 	"eng": "Stun evade"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Decreases chance of getting stunned",
+ 	 	 	 	"trans": "Reduce las posibilidades de quedar aturdido",
  	 	 	 	"eng": "Decreases chance of getting stunned"
  	 	 	}
  	 	},
  	 	"shieldMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shield multiplier",
+ 	 	 	 	"trans": "Multiplicador de escudo",
  	 	 	 	"eng": "Shield multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increase strength of shield by percentage",
+ 	 	 	 	"trans": "Incrementa la fuerza del escudo por porcentaje",
  	 	 	 	"eng": "Increase strength of shield by percentage"
  	 	 	}
  	 	},
  	 	"healMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Healing multiplier",
+ 	 	 	 	"trans": "Multiplicador de curación",
  	 	 	 	"eng": "Healing multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increases the potency of your heals",
+ 	 	 	 	"trans": "Incrementa la potencia de tus curaciones",
  	 	 	 	"eng": "Increases the potency of your heals"
  	 	 	}
  	 	},
  	 	"timeReduction": {
  	 	 	"name": {
- 	 	 	 	"trans": "Time reduction",
+ 	 	 	 	"trans": "Reducción de tiempo",
  	 	 	 	"eng": "Time reduction"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Reduce AFK task required time",
+ 	 	 	 	"trans": "Reduce el tiempo requerido para las tareas AFK",
  	 	 	 	"eng": "Reduce AFK task required time"
  	 	 	}
  	 	},
  	 	"expMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Exp multiplier",
+ 	 	 	 	"trans": "Multiplicador de EXP",
  	 	 	 	"eng": "Exp multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increase EXP you receive",
+ 	 	 	 	"trans": "Incrementa la EXP que recibes",
  	 	 	 	"eng": "Increase EXP you receive"
  	 	 	}
  	 	},
  	 	"btcMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "BTC multiplier",
+ 	 	 	 	"trans": "Multiplicador de BTC",
  	 	 	 	"eng": "BTC multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increase Bitcoins you receive",
+ 	 	 	 	"trans": "Incrementa los Bitcoins que recibes",
  	 	 	 	"eng": "Increase Bitcoins you receive"
  	 	 	}
  	 	}
